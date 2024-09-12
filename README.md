@@ -7,7 +7,7 @@ AriZon é uma plataforma moderna e visualmente atraente projetada para gerenciar
 ## Funcionalidades Simplificadas
 
 ### Dashboard de Eventos
-- **Criação de Eventos**: Organizadores podem adicionar eventos com detalhes básicos como nome, local, data e organizadores.
+- **Criação de Eventos**: Organizadores podem adicionar eventos com detalhes básicos como nome, local, data e nomes dos envolvidos na organização do evento.
 
 ### Inscrição e Check-in
 - **Inscrição Direta**: Participantes podem se inscrever com um clique, usando uma interface simples e intuitiva.
@@ -38,7 +38,7 @@ AriZon é uma plataforma moderna e visualmente atraente projetada para gerenciar
 ## Passos para Implementação
 
 ### Configuração Inicial
-1. Inicie o projeto com Create React App ou Next.js.
+1. Inicie o projeto com Create React App.
 2. Instale e configure Tailwind CSS e Framer Motion.
 3. Configure o MongoDB para armazenamento de dados.
 
